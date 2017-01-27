@@ -7,12 +7,11 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.seanshend.pdf.MainActivity">
+    tools:context="com.seanshend.pdfviewtest.MainActivity">
 
     <WebView
-        android:id="@+id/webView2"
+        android:id="@+id/webView1"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-         />
-
+        />
 </RelativeLayout>

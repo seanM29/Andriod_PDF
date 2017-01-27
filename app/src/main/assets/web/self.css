@@ -1,0 +1,23 @@
+.annotation_edit
+{
+position:absolute;
+left:548.821px;
+top:845.645px;
+ z-index:99;
+width:100px;
+display:block;
+}
+
+div.annotation_edit
+{
+position:absolute;
+left:548.821px;
+top:845.645px;
+z-index:99;
+background:url("1.png"); 
+border:1px solid black;
+width:100px;
+height:150px;
+display:block;
+
+}
